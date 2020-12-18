@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["forget-password-vue"],{8887:function(n,e,o){"use strict";o.r(e);var s,u,l=o("2877"),p={},t=Object(l["a"])(p,s,u,!1,null,null,null);e["default"]=t.exports}}]);
